@@ -11,16 +11,6 @@
         android:layout_weight="0.8"
         android:visibility="invisible" />
 
-    <ImageView
-        android:id="@+id/cbPicView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_weight=".8"
-        android:adjustViewBounds="false"
-        android:cropToPadding="true"
-        android:src="@drawable/launch" />
-
     <View
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
